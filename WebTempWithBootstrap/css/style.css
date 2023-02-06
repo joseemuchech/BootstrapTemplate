@@ -1,0 +1,124 @@
+#topHeader{
+background-color:ghostwhite ;
+border-bottom: 1px solid silver;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+    
+}
+/* Start:footer */
+.full-footer{
+    background-color: #2c3e50;
+}
+.full-footer a{
+    text-decoration: none;
+}
+.topfooter p{
+    color: white;
+}
+.topfooter a{
+    color: white;
+    font-weight: 600;
+}
+.topfooter h3{
+    color: white;
+}
+.bottom-footer{
+    background-color: #19232e;
+}
+.bottom-footer p{
+    color:white;
+}
+/* End:footer */
+
+/* Start:section1 */
+.section1{
+background-color: #3498db;
+color: white;
+
+}
+.section1 a{
+    color: white;
+    font-weight: 600;
+    
+}
+/* End:section1 */
+
+/* Start:section3 */
+.section3{
+    background-color: #004d80;
+    color: white;
+
+}
+
+/* End:section3 */
+
+
+/* Start:section5 */
+.section5{
+    background-color: #004d80;
+    color: white;
+    
+}
+.section5 .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.section5 .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #243c4f;
+    color: #fff;
+}
+
+
+/* End:section5 */
+
+
+/* Start:section7 */
+.section7{
+    background-color: #f0f0f0;
+}
+/* End:section7 */
+
+/* End:End of index page */
+
+/* Start:About page */
+.breadcrumb{
+    background-color: #e9ecef;
+}
+
+.address p{
+    font-weight: 600;
+}
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    border: 2px solid slategray;
+}
+
+
+
+.primarycolor{
+    background: rgba(141, 194, 111, 1);
+}
+.form-control-sm{
+    border-radius: 10px;
+}
+
+.d-block{
+    height: 300px;
+}
